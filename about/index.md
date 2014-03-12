@@ -3,4 +3,10 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+Ludo Pradel, 
+
+Développeur
+
+Membre de l'Agile Toulouse
+
+Membre du Software Crafsmanship Toulouse
