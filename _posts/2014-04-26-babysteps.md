@@ -3,7 +3,7 @@ layout: post
 title: Baby Steps en Coding dojo
 ---
 
-Nous disposions de seulement 1h30 pour découvrir les babys steps en Coding Dojo.
+Nous disposions de seulement 1h30 pour découvrir les [babys steps](http://coderetreat.org/profiles/blogs/taking-baby-steps) en Coding Dojo.
 Ayant déjà pratiqué cet exercice lors de [Code Retreat](http://coderetreat.org/about), je savais à peu près comment le présenter. [@avernois] et [@VincentFERRIES] m'ont aiguillé dans le choix du kata, merci à eux.
 
 La séance s'est déroulé de la façon suivante :
