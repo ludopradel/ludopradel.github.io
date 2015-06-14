@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 permalink: /:title
 
@@ -6,4 +6,4 @@ url:
 baseurl:
 
 redcarpet:
-  extensions: [strikethrough, tables]
+  extensions: [strikethrough, tables,footnotes]
